@@ -179,4 +179,4 @@ or `Git Bash`(for windows) on the `project root dir` exec the command below
 
 
 
-P.S - Dont hesitate to reach out on [linkedin](https://www.linkedin.com/in/johnleonard-onwuzuruigbo-9a10868a/) if there are any issues .
+P.S - Dont hesitate to reach out on [linkedin](https://www.linkedin.com/in/clinton-iwuoha-55161883/) if there are any issues .
